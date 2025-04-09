@@ -1,4 +1,4 @@
-AOSP迁移工具，用于将AOSP源码迁移到私有GitLab中，并保留了repo拉取结构。
+AOSP迁移工具，用于将AOSP源码迁移到私有GitLab中，并保留了repo和git结构拉取
 ## 脚本说明：
 1. makeGroup.sh：用于创建子群组和项目
 2. new_pushGitProject.sh：用于上传源码到GitLab中
